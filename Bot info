@@ -1,0 +1,23 @@
+$nomention
+$authorIcon[$userAvatar[$botID]]
+$author[$username[$botID]#$discriminator[$botID]]
+$description[
+$addField[🔨 • Developer Info;
+- `Developer` ➜ <@$botOwnerID>
+- `ID ➜ $botOwnerID`
+]
+$addField[🤖 • Bot Info;
+- `Name ➜ $username[$botID]#$discriminator[$botID]`
+- `ID ➜ $botID`
+- `Ping ➜ $pingms`
+- `Prefix ➜ {your bot prefix}`
+- `Creation Date ➜ $creationDate[$botID]`
+- `Programming Language ➜ {your bot Programming Language}`
+$addField[📟 • Bot Stats;
+- `Total Servers ➜ $serverCount`
+- `Total Members ➜ $allMembersCount`]]
+$addField[⏰ • Hosting;
+- `Uptime ➜ $uptime`
+- `Hosting time life` ➜ <t:$hostingExpireTime[yes]:f>( <t:$hostingExpireTime[yes]:R>.)]
+$color[dde8ef]
+$addButton[yes;$getBotInvite;Invite Bot;link;no;🔗]
