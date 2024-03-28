@@ -1,0 +1,48 @@
+
+$nomention
+
+$var[ts;$sub[$getTimestamp;300]]
+$onlyIf[$guildID!=;]
+$if[$isSlash==false]
+ $botTyping
+ $if[$argCount[$message]==0]
+ $var[ID;$authorID]
+ $var[input;$authorID]
+ $else
+ $var[input;$message]
+ $var[ID;$var[input]]
+ $endif
+$else
+ $if[$message[user]==]
+ $var[ID;$authorID]
+ $var[input;$authorID]
+ $else
+ $var[input;$message[user]]
+ $var[ID;$var[input]]
+ $endif
+$endif
+$if[$userExists[$findUser[$var[input];no]]==false]
+ $var[type;search]
+ $var[ID;$var[input]]
+$else 
+ $var[type;server]
+ $var[ID;$findUser[$var[input]]]
+$endif 
+$onlyIf[$userExists[$var[ID]]==true;$var[ID] is not a valid Discord ID]
+$author[$username[$botID] Avatar Finder]
+$description[User ID: $var[ID] || Last Updated: <t:$var[ts]:d> at <t:$var[ts]:T>]
+$title[$username[$var[ID]]#$discriminator[$var[ID]]'s avatar]
+$image[$userAvatar[$var[ID]]?size=1024]
+$if[$var[ID]!=$authorID]
+ $footer[Requested by: $username#$discriminator[$authorID]]
+$endif
+$color[6ECDEE]
+$addButton[no;$userAvatar[$var[ID]]?size=2048;Open Original;link;no;;]
+$addButton[no;http://tineye.com/search?url=$userAvatar[$var[ID]]?size=2048;Avatar Search;link;no;💡;]
+$if[$var[type]==server]
+$if[$userAvatar[$var[ID]]!=$userServerAvatar[$var[ID]]]
+$addButton[no;$userServerAvatar[$var[ID]]?size=2048;Server Avatar;link;no;;]
+$addButton[no;http://tineye.com/search?url=$userServerAvatar[$var[ID]]?size=2048;Server Avatar Search;link;no;💡;]
+$endif
+$endif
+         
