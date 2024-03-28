@@ -1,0 +1,39 @@
+$nomention
+$defer
+$var[a;$eval[$replaceText[$repeatMessage[6;a];a;%{DOL}%optOff[%{DOL}%randomText[0\;1\;2\;3\;4\;5\;6\;7\;8\;9\;a\;b\;c\;d\;e\;f\]\];-1]]]
+$allowMention
+ $var[user;$findUser[$message[1];yes]]
+  $var[id;$sendMessage[Currently researching...;yes]]
+   
+   $c[Check if user exist or not!]
+     $if[$userExists[$var[user]]==true]
+      $botTyping
+       $replyIn[3s]
+        $editMessage[$channelID;$var[id];✅ User $username[$var[user]]#$discriminator[$var[user]] found !]
+          $c[Delete message after 2s]
+            $replyIn[2s]
+              $deleteMessage[$channelID;$var[id]]
+               $c[User info]
+                 $author[$username[$var[user]]]
+                  $authorIcon[$userAvatar[$var[user]]]
+                   $addField[User information;<@$var[user]>]
+                    $addField[Badges;$replaceText[$replaceText[$checkCondition[$hypesquad[$var[user]]==];true;No badges.;1];false;$toTitleCase[$hypesquad[$var[user]]];1]]
+                     $async[created]
+                       $httpGet[https://helloacm.com/api/unix-timestamp-converter/?cached&s=$creationDate[$var[user];2006/01/02+03:04:05]]
+                           $httpResult
+                             $endasync
+                               $var[created;<t:$trimSpace[$await[created]]:R> ( <t:$trimSpace[$await[created]]> )]
+                                 $async[joined]
+                                   $httpGet[https://helloacm.com/api/unix-timestamp-converter/?cached&s=$userJoined[$var[user];2006/01/02+03:04:05]]
+                                      $httpResult
+                                       $endasync
+                                        $var[joined;<t:$trimSpace[$await[joined]]:R> ( <t:$trimSpace[$await[joined]]> )]
+                                           $addField[Account info;Created: $var[created]
+Joined: $var[joined]]
+                                             $color[6ECDEE]
+                                              $footer[$var[user]]
+                                               $addButton[no;Avatar;Avatar;primary;no;]
+                                                $addButton[no;Roles;Roles;primary;no;]
+                                            
+
+$endif
