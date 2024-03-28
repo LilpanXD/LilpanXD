@@ -1,0 +1,21 @@
+$nomention
+$color[6ECDEE]
+$serverInfo[
+**Server owner**
+{owner} ($serverOwner)
+
+**Members**
+$membersCount
+
+**Roles**
+$roleCount 
+
+**Category Channel**
+$categoryCount
+
+**Channels**
+$channelCount
+]
+
+$footer[ID: $guildID, Created | $creationDate[$guildID]]
+$thumbnail[$serverIcon]
