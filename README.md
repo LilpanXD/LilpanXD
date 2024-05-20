@@ -20,5 +20,8 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilpanXD&theme=blue-green)](#-statistics)
 
+## 💻 Profile Stats:
+![](https://discord-readme-badge-nine.vercel.app/api?id=1163562149415747615)<br/>
+
 ## **☎️Contact**
 [![Discord Profile](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1163562149415747615)
