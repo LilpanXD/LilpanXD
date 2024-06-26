@@ -11,7 +11,7 @@
 - **???**
   - ???
 
-## **✨ Skills**
+## **✨ Tech I Use**
 [![SKILL](https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,lua,vscode&perline=8 )
     
 ## **🏓 Statistics**
