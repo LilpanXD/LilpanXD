@@ -12,7 +12,7 @@
   - ???
 
 ## **✨ Skills**
-   <img src="https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,vscode&perline=8"
+[![SKILL](https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,vscode&perline=8)
     
 ## **🏓 Statistics**
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=LilpanXD&theme=blue-green)](#-statistics)
