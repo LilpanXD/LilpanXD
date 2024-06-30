@@ -12,8 +12,12 @@
   - ???
 
 ## **✨ Tech I Use**
-[![Skills](https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,lua,vscode&perline=8 )
-    
+<p align="center">
+  <a href="https://frazix.tk">
+    <img src="https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,vscode&perline=8" />
+  </a>
+</p>
+
 ## **🏓 Statistics**
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=LilpanXD&theme=blue-green)](#-statistics)
 
