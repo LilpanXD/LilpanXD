@@ -1,5 +1,9 @@
 **👋  |  Hey there, I'm LilpanXD! Welcome to my GitHub playground where I bring ideas to life through code.**
 
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="LilpanXD" />
+</p>
 
 ## **💼 My Projects**
 - **Wastronout:**
@@ -14,11 +18,6 @@
     <img src="https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,vscode,lua&perline=8" />
   </a>
   
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="LilpanXD" />
-</p>
-
 ## **🏓 Statistics**
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=LilpanXD&theme=blue-green)](#-statistics)
 
