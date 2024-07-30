@@ -1,11 +1,6 @@
 **👋  |  Hey there, I'm LilpanXD! Welcome to my GitHub playground where I bring ideas to life through code.**
 
 
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="LilpanXD" />
-</p>
-
 ## **💼 My Projects**
 - **Wastronout:**
   - *A multi-purpose discord bot built on discord.js v14 / latest version ( upcoming )*
@@ -17,6 +12,11 @@
   </a>
   
 ## **🏓 Statistics**
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="LilpanXD" />
+</p>
+
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=LilpanXD&theme=blue-green)](#-statistics)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilpanXD&theme=blue-green)](#-statistics)
