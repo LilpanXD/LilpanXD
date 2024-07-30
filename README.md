@@ -10,9 +10,6 @@
 - **Wastronout:**
   - *A multi-purpose discord bot built on discord.js v14 / latest version ( upcoming )*
 
-- **???**
-  - ???
-
 ## **✨ Tech I Use**
 <p align="center">
   <a href="https://lilpanxd.vercel.app">
