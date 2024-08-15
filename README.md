@@ -1,10 +1,5 @@
 **👋  |  Hey there, I'm LilpanXD! Welcome to my GitHub playground where I bring ideas to life through code.**
 
-
-## **💼 My Projects**
-- **Wastronout:**
-  - *A multi-purpose discord bot built on discord.js v14 / latest version ( upcoming )*
-
 ## **✨ Tech I Use**
 <p align="center">
   <a href="https://lilpanxd.vercel.app">
@@ -14,12 +9,12 @@
 ## **🏓 Statistics**
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="LilpanXD" />
+  <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="Profile View" />
 </p>
 
 </p>
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/1163562149415747615.png" alt="LilpanXD" />
+  <img src="https://discord.c99.nl/widget/theme-3/1163562149415747615.png" alt="Discord Activity" />
 </p>
 
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=LilpanXD&theme=blue-green)](#-statistics)
