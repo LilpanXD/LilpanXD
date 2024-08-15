@@ -17,6 +17,11 @@
   <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="LilpanXD" />
 </p>
 
+</p>
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/1163562149415747615.png" alt="LilpanXD" />
+</p>
+
 [![Profile Stats](https://github-readme-stats.vercel.app/api?username=LilpanXD&theme=blue-green)](#-statistics)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilpanXD&theme=blue-green)](#-statistics)
