@@ -8,7 +8,7 @@
   
 ## **🏓 Statistics**
 
-           Github Stats
+                       Github Stats
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LilpanXD&label=Profile%20views&color=blueviolet&style=flat" alt="Profile View" />
