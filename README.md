@@ -5,7 +5,13 @@
   <a href="https://lilpanxd.vercel.app">
     <img src="https://skillicons.dev/icons?i=bash,css,discord,electron,express,github,html,js,mongodb,nodejs,powershell,next,redis,tailwind,ts,vscode,lua&perline=8" />
   </a>
-  
+
+- `Skill`
+<p align="center">
+  <a href="https://lilpanxd.vercel.app">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,lua&perline=8" />
+  </a>
+
 ## **🏓 Statistics**
 
 - `Github Stats`
