@@ -16,7 +16,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LilpanXD&theme=blue-green)](#-statistics)
 
-<img src="https://skillicons.dev/icons?i=discord" /> `Discord stats`
+<img src="https://skillicons.dev/icons?i=discord" /> ### `Discord stats`
 </p>
 <p align="center">
   <img src="https://discord.c99.nl/widget/theme-3/1163562149415747615.png" alt="Discord Activity" />
