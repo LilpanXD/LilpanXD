@@ -2,10 +2,9 @@
 
 
 ## **✨ Tech I Use**
-- `Skill`
 <p align="center">
   <a href="https://lilpanxd.vercel.app">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,lua,linux&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,lua,linux,github&perline=8" />
   </a>
 
 ## **🏓 Statistics**
