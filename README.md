@@ -5,7 +5,7 @@
 - `Skill`
 <p align="center">
   <a href="https://lilpanxd.vercel.app">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,lua&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,lua,termux&perline=8" />
   </a>
 
 ## **🏓 Statistics**
