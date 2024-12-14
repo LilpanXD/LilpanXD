@@ -1,4 +1,4 @@
-## **👋  |  Hey there, I'm LilpanXD!**
+# **👋  |  Hey there, I'm LilpanXD!**
 
 ## **✨ Tech I Use**
 - `Skill`
