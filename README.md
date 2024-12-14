@@ -1,4 +1,4 @@
-**👋  |  Hey there, I'm LilpanXD! Welcome to my GitHub playground where I bring ideas to life through code.**
+# **👋  |  Hey there, I'm LilpanXD! Welcome to my Github**
 
 ## **✨ Tech I Use**
 - `Skill`
