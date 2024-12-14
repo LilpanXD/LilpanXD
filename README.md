@@ -4,7 +4,7 @@
 ## **✨ Tech I Use**
 <p align="center">
   <a href="https://lilpanxd.vercel.app">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,lua,linux,github&perline=8" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,lua,linux,github&perline=2" />
   </a>
 
 ## **🏓 Statistics**
